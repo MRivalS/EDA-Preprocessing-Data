@@ -9,8 +9,8 @@ Contoh Kasus Data Harga Property Rumah
 
 # Mengapa perlu preprocessing?
 - Data di dunia nyata biasanya tidak sebersih/indah data di buku akademik.
-    -Noise: Misal gaji bernilai negatif
-    -Ouliers: Misal seseorang dengan penghasilan >500 juta/bulan.
+    - Noise: Misal gaji bernilai negatif
+    - Ouliers: Misal seseorang dengan penghasilan >500 juta/bulan.
     - Duplikasi: Banyak di media sosial
     - Encodings, dsb: Banyak di Big Data, karena masalah bagaimana data disimpan/join.
 - Tidak lengkap: hanya agregat, kurang variabel penting, dsb.
